@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"des_calc",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"des_calc",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"intensify",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"intensify",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
