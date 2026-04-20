@@ -1,0 +1,8 @@
+# GameMaker cache and temp files
+.yyo
+*.yyo
+/cache/
+/temp/
+*.tmp
+Temp/
+*.lock
